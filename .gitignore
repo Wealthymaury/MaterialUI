@@ -2,3 +2,10 @@
 .env.*.php
 .env.php
 .env
+/vendor
+/node_modules
+/AppData
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
