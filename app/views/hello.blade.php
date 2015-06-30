@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Laravel PHP Framework</title>
+	{{ HTML::script('../node_modules/material-ui/src/index.js'); }}
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
 
